@@ -7,7 +7,7 @@ from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, C
 from aiogram.filters import Command
 from aiogram.fsm.storage.memory import MemoryStorage
 
-TOKEN = "7485175242:AAGvI_ubPhjACTNl_YOXDrl-3ROzzcWJcUQ"
+TOKEN = "7988611280:AAEh27jFJMVZmH66ziRyMe4BDIgk1Ta2N7w"
 ADMIN_ID = 949263879
 
 bot = Bot(token=TOKEN)
